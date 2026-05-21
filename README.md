@@ -33,6 +33,12 @@ Use the hosted Streamlit demo to analyze chats without installing anything local
 
 The hosted app provides the easiest way to try the project and share results.
 
+## Demo Video
+
+Watch a short demonstration of this project below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxEoWaaoqPw" title="WhatsApp Chat Analysis Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Run locally
 
 1. Clone the repository or place the project folder on your machine.

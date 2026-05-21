@@ -14,7 +14,7 @@ A small Python project to preprocess and analyze exported WhatsApp chat files. I
 
 Analyze WhatsApp exports quickly — either via the hosted Streamlit demo or locally.
 
-**Live demo:** https://whatsapp-chat-analysis-by-srj.streamlit.app/
+**Live demo:** https://whatsapp-chat-analysis-by-srj.streamlit.app
 
 ## What this project does
 
@@ -26,7 +26,7 @@ Analyze WhatsApp exports quickly — either via the hosted Streamlit demo or loc
 
 Use the hosted Streamlit demo to analyze chats without installing anything locally:
 
-- Visit: https://whatsapp-chat-analysis-by-srj.streamlit.app/
+- Visit: https://whatsapp-chat-analysis-by-srj.streamlit.app
 - Upload an exported `.txt` chat file (see "Exporting chats from WhatsApp" below).
 - Choose a user to filter (or select "Overall").
 - Explore interactive panels: summary stats, time-series charts, heatmap, word cloud, most-common messages, and emoji analysis.

@@ -37,7 +37,9 @@ The hosted app provides the easiest way to try the project and share results.
 
 Watch a short demonstration of this project below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MxEoWaaoqPw" title="WhatsApp Chat Analysis Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the demo on YouTube](https://img.youtube.com/vi/MxEoWaaoqPw/maxresdefault.jpg)](https://youtu.be/MxEoWaaoqPw)
+
+*Click the image to open the video on YouTube.*
 
 ## Run locally
 
